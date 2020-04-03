@@ -3,4 +3,4 @@ This project is the handson of the LinkedIn course "Learning Java Lambda Express
 - Creating new Functional Interfaces
 - Lambda syntax
 - Method as lambdas
-Collections, maps and streams.
+- Collections, maps and streams.
