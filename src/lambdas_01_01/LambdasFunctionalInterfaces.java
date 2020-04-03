@@ -1,3 +1,4 @@
+package lambdas_01_01;
 import java.util.function.BinaryOperator;
 import java.util.function.Consumer;
 import java.util.function.Function;
@@ -6,7 +7,7 @@ import java.util.function.Supplier;
 import java.util.function.UnaryOperator;
 
 
-public class Lambdas_01_01 {
+public class LambdasFunctionalInterfaces {
 	
 
 
@@ -39,7 +40,7 @@ public class Lambdas_01_01 {
 		
 		//Unary operation
 		UnaryOperator<String> str = (msg) -> msg.toUpperCase();
-		System.out.println(str.apply("this is a message in uper case"));
+		System.out.println(str.apply("this is a message in upper case"));
 		
 	}
 
